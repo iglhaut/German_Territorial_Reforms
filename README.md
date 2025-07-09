@@ -3,8 +3,7 @@ A data cleaning pipeline for processing German territorial reforms: "Gebietsänd
 
 
 ## Overview
-This repository contains code to clean administrative territorial reform data from Germany, tracking especially (but not exclusively) municipality (Gemeinde) and county (Kreis) boundary changes. The cleaned dataset was created for the purpose to distinguish behavioral changes of counties (e.g. moves in form of relocating a place of living) from administrative changes of counties. 
-
+This repository contains code to clean administrative territorial reform data from Germany, primarily tracking municipality (Gemeinde) and county (Kreis) boundary changes. The cleaned dataset enables researchers to distinguish between actual behavioral changes (such as residential relocations) and administrative boundary changes when analyzing geographic mobility patterns.
 
 ## Data
 All data on territorial reforms was downloaded here: https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Namens-Grenz-Aenderung/namens-grenz-aenderung.html
@@ -12,7 +11,7 @@ All data on territorial reforms was downloaded here: https://www.destatis.de/DE/
 
 
 ## R Version
-- code was written using R 4.5.0
+- 4.5.0
 
 
 ## Package versions
