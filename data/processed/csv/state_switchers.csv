@@ -1,0 +1,24 @@
+year,id,regional_unit,pre_county_id,post_county_id,reform_type,population,pre_name,post_name,pre_state,post_state
+1968,stba/1968/0001,Gemeinde,03237,06238,2,19,Escherode,Nieste,03,06
+1968,stba/1968/0002,Gemeinde,06236,03237,2,42,"Gutsbezirk Reinhardswald, gemfr. Gebiet","Münden, Stadt",06,03
+1968,stba/1968/0003,Gemeinde,03238,06236,2,87,"Lauenförde, Flecken","Karlshafen, Stadt",03,06
+1969,stba/1969/0001,Gemeinde,03411,02000,2,81,"Cuxhaven, Stadt","Hamburg, Freie und Hansestadt",03,02
+1971,stba/1971/0001,Gemeinde,03133,05737,2,104,Krankenhagen,Extertal,03,05
+1971,stba/1971/0001,Gemeinde,03133,05737,2,2,Wennenkamp,Extertal,03,05
+1971,stba/1971/0002,Gemeinde,03134,05733,2,46,Baarsen,"Lügde, Stadt",03,05
+1971,stba/1971/0003,Gemeinde,03138,05739,1,313,Frille,Frille,03,05
+1971,stba/1971/0003,Gemeinde,03138,05739,2,28,Cammer,Frille,03,05
+1971,stba/1971/0003,Gemeinde,03138,05739,2,13,"Baum, gemfr. Gebiet",Frille,03,05
+1971,stba/1971/0004,Gemeinde,05736,03236,2,4,"Höxter, Stadt","Holzminden, Stadt",05,03
+1971,stba/1971/0004,Gemeinde,03236,05736,2,97,"Holzminden, Stadt","Höxter, Stadt",03,05
+1971,stba/1971/0005,Gemeinde,03238,05736,2,10,"Lauenförde, Flecken","Beverungen, Stadt",03,05
+1983,stba/1983/0001,Gemeinde,08226,06431,2,127,"Hemsbach, Stadt","Lampertheim, Stadt",08,06
+1990,stba/1990/0001,Gemeinde,12034,11000,1,3920,Staaken,"Berlin, Stadt",12,11
+1992,stba/1992/0002,Gemeinde,12037,13027,2,134,Berge,Ziegendorf,12,13
+1993,stba/1993/0001,Gemeinde,13021,03355,1,333,Dellien,Neuhaus (Elbe),13,03
+1993,stba/1993/0001,Gemeinde,13021,03355,1,147,Sückau,Neuhaus (Elbe),13,03
+1993,stba/1993/0001,Gemeinde,13021,03355,2,83,Teldau,"Bleckede, Stadt",13,03
+1993,stba/1993/0001,Gemeinde,13021,03355,2,63,Teldau,Sumte,13,03
+1994,stba/1994/0001,Gemeinde,16076,14045,2,141,Schönbach,Cunsdorf,16,14
+2009,stba/2009/0068-R,Gemeinde,06635,05958,2,5,"Bad Arolsen, Stadt","Marsberg, Stadt",06,05
+2009,stba/2009/0068-R,Gemeinde,06635,05958,2,19,Diemelsee,"Brilon, Stadt",06,05
