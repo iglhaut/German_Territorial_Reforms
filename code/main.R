@@ -137,6 +137,9 @@ final_dataset_labeled <- final_dataset_filtered %>%
 
 # Reforms which altered the counties of regional units 
 county_switchers <- final_dataset_filtered %>%
+  mutate(
+    population = as.numeric(population),
+    area_ha = as.numeric(area_ha)) %>% 
   filter(!is.na(pre_county_id) & !is.na(post_county_id) & pre_county_id != post_county_id & !is.na(population) & population > 0) %>%
   select(year, id, regional_unit, pre_county_id, post_county_id, reform_type, population, pre_name, post_name) %>% 
   identity()
